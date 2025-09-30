@@ -11,4 +11,9 @@ paperurl: 'https://cis.temple.edu/~jiewu/research/publications/Publication_files
 bibtexurl: 'https://dblp.org/rec/conf/icde/ZhangXXXWZ25.html?view=bibtex'
 citation: 'Xichong Zhang, Xu. (2025). &quot;Online Federated Learning on Distributed Unknown Data Using UAVs.&quot; <i>ICDE</i>. 1(1).'
 ---
+
+{% include base_path %}
+
+<a href="{{ base_path }}/files/(ICDE'25)_Online_Federated_Learning_on_Distributed_Unknown_Data_Using_UAVs.pdf" target="_blank" class="btn btn--primary btn--large">Download PDF</a>
+
 (ICDE'25)Online Federated Learning on Distributed Unknown Data Using UAVs

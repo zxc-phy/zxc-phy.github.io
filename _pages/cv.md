@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="{{ base_path }}/files/Xichong Zhang - CV.pdf" target="_blank" class="btn btn--primary btn--large">Download the CV PDF</a>
+
 Education
 ======
 * M.Phil. in Computer Science, [University of Science and Technology of China](https://en.ustc.edu.cn/), 2025
