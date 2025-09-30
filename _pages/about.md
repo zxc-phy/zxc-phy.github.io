@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xichong Zhang(张习冲)'s Academic Page"
+title: "Xichong Zhang's Academic Page"
 author_profile: true
 redirect_from: 
   - /about/
