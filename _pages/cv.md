@@ -9,38 +9,36 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="{{ base_path }}/files/Xichong Zhang - CV.pdf" target="_blank" class="btn btn--primary btn--large">Download the CV PDF</a>
+<a href="{{ base_path }}/CV_XichongZhang.pdf" target="_blank" class="btn btn--primary btn--large">Download the CV PDF</a>
 
 Education
 ======
-* M.Phil. in Computer Science, [University of Science and Technology of China](https://en.ustc.edu.cn/), 2025
-* B.S. in Physics, [University of Science and Technology of China](https://en.ustc.edu.cn/), 2022
+* Ph.D. in Computer Science, [University of Waterloo](https://uwaterloo.ca/), 2026 – Expected 2030
+* M.Eng. in Computer Science, [University of Science and Technology of China](https://en.ustc.edu.cn/), 2022 – 2025
+* B.S. in Physics, [University of Science and Technology of China](https://en.ustc.edu.cn/), 2018 – 2022
 
-<!-- Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Research Intern**, University of Washington, Nov 2025 – Present
+  * Advisor: Asst. Prof. Banghua Zhu
+  * Optimizing inference efficiency of diffusion language models
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Graduate Researcher**, USTC, Sept 2022 – Present
+  * Advisor: Prof. Mingjun Xiao, Asst. Prof. Yin Xu
+  * Edge-cloud collaborative VideoLLM, edge caching, federated learning with UAVs
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git -->
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming Languages**: Python, C/C++, MATLAB, Bash, LaTeX
+* **Deep Learning**: PyTorch, HuggingFace Transformers
+* **Languages**: Mandarin (native), English (intermediate)
+
+Honors and Awards
+======
+* Outstanding Graduate Award, USTC, 2025
+* Graduate Academic Scholarship, USTC, 2022, 2023, 2024
+* First Prize in College Physics Experiment IV, USTC, 2021
+* National Encouragement Scholarship, 2019, 2020
 
 Publications
 ======

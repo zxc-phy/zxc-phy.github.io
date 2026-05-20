@@ -26,19 +26,19 @@ author:
   avatar           : "profile.jpg"
   name             : "Xichong Zhang (张习冲)"
   pronouns         : # example: "she/her"  
-  bio              : "M.Eng Graduate from University of Science and Technology of China"
-  location         : "Anhui,China"
-  employer         : "USTC"
+  bio              : "Incoming Ph.D. Student in Computer Science at University of Waterloo"
+  location         : "Anhui, China"
+  employer         : "University of Waterloo"
   uri              : "https://zxc-phy.github.io"
   email            : "yyu18@mail.ustc.edu.cn" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/"
+  googlescholar    : # URL
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/"
+  orcid            : # URL
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
@@ -83,12 +83,12 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  journal:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+  efficient-ml-sys:
+    title: 'Efficient ML Systems'
+  edge-computing:
+    title: 'Edge Computing'
+  ai4sci:
+    title: 'AI for Science'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews

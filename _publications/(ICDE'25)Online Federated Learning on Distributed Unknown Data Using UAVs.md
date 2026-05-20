@@ -1,7 +1,7 @@
 ---
 title: "Online Federated Learning on Distributed Unknown Data Using UAVs"
 collection: publications
-category: conferences
+category: edge-computing
 permalink: /publication/(ICDE'25)Online Federated Learning on Distributed Unknown Data Using UAVs
 excerpt: '(ICDE 2025)Online Federated Learning on Distributed Unknown Data Using UAVs'
 date: 2025-01-01

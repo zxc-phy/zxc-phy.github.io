@@ -1,7 +1,7 @@
 ---
 title: "Joint Mobile Edge Caching and Pricing: A Mean-Field Game Approach"
 collection: publications
-category: conferences
+category: edge-computing
 permalink: "/publication/(ICDE'24)Joint Mobile Edge Caching and Pricing: A Mean-Field Game Approach"
 excerpt: '(ICDE 2024)Joint Mobile Edge Caching and Pricing: A Mean-Field Game Approach'
 date: 2024-01-01

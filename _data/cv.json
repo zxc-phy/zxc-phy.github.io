@@ -1,152 +1,182 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Xichong Zhang (张习冲)",
+    "email": "yyu18@mail.ustc.edu.cn",
+    "phone": "+86-137-8323-8790",
+    "website": "https://zxc-phy.github.io",
+    "summary": "Incoming Ph.D. student in Computer Science at University of Waterloo. Research interests in Efficient Machine Learning Systems, LLM serving, and edge computing.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Hefei",
+      "countryCode": "CN",
+      "region": "Anhui"
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": ""
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": ""
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "zxc-phy",
+        "url": "https://github.com/zxc-phy"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "xichong-zhang-72526a278",
+        "url": "https://www.linkedin.com/in/xichong-zhang-72526a278/"
+      },
+      {
+        "network": "dblp",
+        "username": "",
+        "url": "https://dblp.org/pid/381/6175.html"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "University of Waterloo",
+      "area": "Computer Science",
+      "studyType": "Ph.D.",
+      "startDate": "2026-09",
+      "endDate": "2030",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "institution": "University of Science and Technology of China",
+      "area": "Computer Science",
+      "studyType": "M.Eng.",
+      "startDate": "2022-09",
+      "endDate": "2025-07",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "University of Science and Technology of China",
+      "area": "Physics",
+      "studyType": "B.S.",
+      "startDate": "2018-09",
+      "endDate": "2022-07",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "skills": [
+    {
+      "name": "Python",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C/C++",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PyTorch",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HuggingFace Transformers",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "Mandarin",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Efficient Machine Learning Systems",
+      "keywords": ["LLM Serving", "Resource-aware Algorithms", "System Architectures"]
+    },
+    {
+      "name": "Video LLM",
+      "keywords": ["Edge-Cloud Collaboration"]
+    },
+    {
+      "name": "Federated Learning",
+      "keywords": ["Edge Computing", "Distributed Systems"]
+    }
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Step-dLLM: Adaptive Step-aware Sparse Attention for Efficient Diffusion LLM Inference",
+      "publisher": "Under Review (NIPS 2026)",
+      "releaseDate": "2026-01-01",
+      "website": "",
+      "summary": "Co-first author. Introduces adaptive sparsity budget allocation for diffusion language models."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "ECVideoLLM: Communication-Efficient Online VideoLLMs via Memory-First Edge-Cloud Collaboration",
+      "publisher": "In Preparation (Targeting INFOCOM 2027)",
+      "releaseDate": "2026-01-01",
+      "website": "",
+      "summary": "Co-first author & Project lead. Edge-cloud collaborative serving for VideoLLMs."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Online Federated Learning on Distributed Unknown Data Using UAVs",
+      "publisher": "IEEE ICDE",
+      "releaseDate": "2025-01-01",
+      "website": "https://cis.temple.edu/~jiewu/research/publications/Publication_files/ICDE2024_Online_Federated_Learning_on_Distributed_Unknown_Data_Using_UAVs.pdf",
+      "summary": "First author. Data-driven federated learning with Bayesian inference and bandit model for UAV scheduling."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Joint Mobile Edge Caching and Pricing: A Mean-Field Game Approach",
+      "publisher": "IEEE ICDE",
+      "releaseDate": "2024-01-01",
+      "website": "https://cis.temple.edu/~wu/research/publications/Publication_files/ICDE2024_Xu.pdf",
+      "summary": "Student first author. Mean-field game model for large-scale edge caching."
+    },
+    {
+      "name": "CoSine: Enhancing LLM Serving via Collaborative and Decoupled Speculative Inference",
+      "publisher": "IEEE INFOCOM",
+      "releaseDate": "2026-01-01",
+      "website": "",
+      "summary": "Collaborative and decoupled speculative inference for LLM serving."
+    },
+    {
+      "name": "SFedPO: Streaming Federated Learning with a Prediction Oracle under Temporal Shifts",
+      "publisher": "ICML",
+      "releaseDate": "2026-01-01",
+      "website": "",
+      "summary": "Streaming federated learning under temporal distribution shifts."
+    },
+    {
+      "name": "SFedKD: Sequential Federated Learning with Discrepancy-Aware Multi-Teacher Knowledge Distillation",
+      "publisher": "Under Review",
+      "releaseDate": "2025-01-01",
+      "website": "https://arxiv.org/pdf/2507.08508",
+      "summary": "Sequential federated learning with multi-teacher knowledge distillation."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
+  "presentations": [],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "Data Structure (011127)",
+      "institution": "University of Science and Technology of China",
+      "date": "2022-09-01",
+      "role": "Teaching Assistant",
+      "description": "Undergraduate course, Fall 2022."
     }
   ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "portfolio": []
 }

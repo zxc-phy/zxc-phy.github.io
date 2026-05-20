@@ -1,7 +1,7 @@
 ---
 title: "SFedKD: Sequential Federated Learning with Discrepancy-Aware Multi-Teacher Knowledge Distillation"
 collection: publications
-category: conferences
+category: edge-computing
 permalink: "/publication/('25)SFedKD: Sequential Federated Learning with Discrepancy-Aware Multi-Teacher Knowledge Distillation"
 excerpt: '(2025)SFedKD: Sequential Federated Learning with Discrepancy-Aware Multi-Teacher Knowledge Distillation'
 date: 2025-01-01
