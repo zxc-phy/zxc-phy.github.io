@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming Ph.D. student in Computer Science at the [University of Waterloo](https://uwaterloo.ca/), where I will be advised by [Prof. Khuzaima Daudjee](https://cs.uwaterloo.ca/~kdaudjee/) and [Prof. Hong Zhang](https://hongzhangblaze.github.io/). I received my M.Eng. in Computer Science from the [University of Science and Technology of China](https://en.ustc.edu.cn/), where I was fortunate to be advised by Prof. Mingjun Xiao and Prof. Yin Xu. I have also been fortunate to work with Prof. Banghua Zhu and Prof. Jie Wu.
+I am an incoming Ph.D. student in Computer Science at the [University of Waterloo](https://uwaterloo.ca/), advised by [Prof. Khuzaima Daudjee](https://cs.uwaterloo.ca/~kdaudjee/) and [Prof. Hong Zhang](https://hongzhangblaze.github.io/). I received my M.Eng. in Computer Science from the [University of Science and Technology of China](https://en.ustc.edu.cn/), where I was fortunate to be advised by Prof. Mingjun Xiao and Prof. Yin Xu. Before that, I received my B.S. in Physics from USTC and worked on condensed matter physics under the supervision of Prof. Zhenyu Wang. I have also had the pleasure of working with Prof. Banghua Zhu and Prof. Jie Wu.
 
-My research interests lie in **Efficient Machine Learning Systems**. I am particularly interested in designing resource-aware algorithms and system architectures for efficient LLM serving, aiming to make large language models more practical and commercially deployable. More specifically, I am interested in both system-level mechanisms, such as software-hardware co-design for LLM inference and serving, and algorithmic approaches that improve efficiency. Before moving toward ML systems, my research mainly focused on networking and distributed systems, especially edge computing.
+My research interests lie in **Efficient Machine Learning Systems**, spanning both algorithmic and systems-level optimizations for efficient LLM serving. My goal is to lower the computational and economic barriers of deploying large language models, making them faster, more affordable, and more broadly accessible so that more people can benefit from advances in AI. Previously, my research focused on networking and distributed systems, especially edge computing.
 
-Beyond my current research directions, I am broadly interested in all kinds of interesting problems. If you have any topics, ideas, or questions that you would like to discuss, please do not hesitate to reach out to me by email: **yyu18@mail.ustc.edu.cn**.
+Beyond my current research directions, I am broadly interested in interesting problems and research ideas. Please feel free to reach out if you would like to discuss any topic: **yyu18@mail.ustc.edu.cn**.
 
 You can also find my articles on [IEEE Explore](https://ieeexplore.ieee.org/author/938778205545411) | [dblp](https://dblp.org/pid/381/6175.html).
 
@@ -19,27 +19,27 @@ You can also find my articles on [IEEE Explore](https://ieeexplore.ieee.org/auth
 
 ## Publications
 
-{% include base_path %}
+<span class='anchor' id='-publications'></span>
 
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h3>{{ category[1].title }}</h3><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<h3 class="topic-heading">Efficient ML Systems</h3>
+
+- <span style="font-family: Arial; font-size:medium;">Zhichen Zeng\*, **Xichong Zhang**\*, Junpan Wu, Banghua Zhu. "Step-dLLM: Adaptive Step-aware Sparse Attention for Efficient Diffusion LLM Inference", *Under Review* (NIPS 2026)</span>
+- <span style="font-family: Arial; font-size:medium;">Yihe Weng\*, **Xichong Zhang**\*†, Jiabin Ou, Luyao Gao, Yin Xu, Mingjun Xiao. "ECVideoLLM: Communication-Efficient Online VideoLLMs via Memory-First Edge-Cloud Collaboration", *In Preparation* (Targeting INFOCOM 2027)</span>
+- <span style="font-family: Arial; font-size:medium;">Luyao Gao, Jianchun Liu, **Xichong Zhang**, Yunming Liao, Guoju Gao. "CoSine: Enhancing LLM Serving via Collaborative and Decoupled Speculative Inference", <a style="color: #ff0000;"><b>[INFOCOM'26]</b></a></span>
+
+<h3 class="topic-heading">Edge Computing</h3>
+
+- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[ICML'26]</b></a> Jinrui Zhou, Haotian Xu, **Xichong Zhang**, He Sun, Mingjun Xiao. "SFedPO: Streaming Federated Learning with a Prediction Oracle under Temporal Shifts", *ICML* 2026</span>
+- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[ICDE'25]</b></a> **Xichong Zhang**, Haotian Xu, Yin Xu, Mingjun Xiao, Jie Wu, Jinrui Zhou. "Online Federated Learning on Distributed Unknown Data Using UAVs", *IEEE ICDE* 2025 [[Paper]](https://cis.temple.edu/~jiewu/research/publications/Publication_files/ICDE2024_Online_Federated_Learning_on_Distributed_Unknown_Data_Using_UAVs.pdf)</span>
+- <span style="font-family: Arial; font-size:medium;">Haotian Xu, Jinrui Zhou, **Xichong Zhang**, Mingjun Xiao. "SFedKD: Sequential Federated Learning with Discrepancy-Aware Multi-Teacher Knowledge Distillation", *Under Review* [[Paper]](https://arxiv.org/pdf/2507.08508)</span>
+- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[ICDE'24]</b></a> Yin Xu, **Xichong Zhang**, Mingjun Xiao, Jie Wu, An Liu, Sheng Zhang. "Joint Mobile Edge Caching and Pricing: A Mean-Field Game Approach", *IEEE ICDE* 2024 [[Paper]](https://cis.temple.edu/~wu/research/publications/Publication_files/ICDE2024_Xu.pdf)</span>
+- <span style="font-family: Arial; font-size:medium;">**Xichong Zhang**, Jinrui Zhou, Yin Xu, Mingjun Xiao, Jie Wu. "Collaborative Federated Learning on Distributed Data Using Multiple UAVs", *Submitted to IEEE/ACM Transactions on Networking*</span>
+- <span style="font-family: Arial; font-size:medium;">**Xichong Zhang**, Jinrui Zhou, Haotian Xu, Yin Xu, Mingjun Xiao, Jie Wu. "AoI-Aware Mobile Crowdsensing in Non-stationary and Constrained Restless Event Environments", *Submitted to IEEE Transactions on Mobile Computing*</span>
+
+<h3 class="topic-heading">AI for Science</h3>
+
+- <span style="font-family: Arial; font-size:medium;">Yanlong Zhao, **Xichong Zhang**, Yilin Hao, Yinghe Zhao, Peng Ding, Wei Zhai, Kun Dai, Guoqiang Zheng, Chuntai Liu, Changyu Shen. "Multifunctional PVA/PNIPAM Conductive Hydrogel Sensors Enabled Human-Machine Interaction Intelligent Rehabilitation Training", *Advanced Composites and Hybrid Materials* (SCI Q1, IF 21.8)</span>
+- <span style="font-family: Arial; font-size:medium;">Yanlong Zhao, Rui Wu, Yilin Hao, Yi Zhao, **Xichong Zhang**, Hui Liu, Wei Zhai, Kun Dai, Caofeng Pan, Chuntai Liu, Changyu Shen. "Eco-Friendly Multifunctional Hydrogel Sensors Enabled Sustainable and Accurate Human-Machine Interaction System", *Advanced Materials* (SCI Q1, IF 26.8)</span>
 
 ## 🎖 Honors and Awards
 {: #-honors-and-awards}
@@ -53,22 +53,24 @@ You can also find my articles on [IEEE Explore](https://ieeexplore.ieee.org/auth
 ## 🎓 Educations
 {: #-educations}
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 1.2em;">
-  <div style="min-width: 80px; margin-right: 1em;">
-    <img src="/images/ustc.png" alt="ustc" width="80">
+<div class='school-box'>
+  <div class='school-box-image'>
+    <img src='/images/ustc.png' alt='ustc' width='80'>
   </div>
-  <div>
-    <strong>2022.09 - 2025.07</strong>, M.Eng. in Computer Science<br>
-    School of Computer Science and Technology, University of Science and Technology of China (USTC), Hefei, Anhui
+  <div class='school-box-text' markdown='1'>
+**2022.09 - 2025.07**, M.Eng. in Computer Science
+
+School of Computer Science and Technology, University of Science and Technology of China (USTC), Hefei, Anhui
   </div>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 1.2em;">
-  <div style="min-width: 80px; margin-right: 1em;">
-    <img src="/images/ustc.png" alt="ustc" width="80">
+<div class='school-box'>
+  <div class='school-box-image'>
+    <img src='/images/ustc.png' alt='ustc' width='80'>
   </div>
-  <div>
-    <strong>2018.09 - 2022.07</strong>, B.S. in Physics<br>
-    School of Physical Sciences, University of Science and Technology of China (USTC), Hefei, Anhui
+  <div class='school-box-text' markdown='1'>
+**2018.09 - 2022.07**, B.S. in Physics
+
+School of Physical Sciences, University of Science and Technology of China (USTC), Hefei, Anhui
   </div>
 </div>

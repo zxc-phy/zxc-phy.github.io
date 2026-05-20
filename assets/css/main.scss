@@ -41,3 +41,62 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+.school-box {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-bottom: 1px #efefef solid;
+    padding: 0.75em 0 0.75em 0;
+
+    .school-box-image {
+        justify-content: center;
+        display: flex;
+        width: 100%;
+        order: 2;
+        img {
+            max-width: 400px;
+            box-shadow: 3px 3px 6px #888;
+            object-fit: cover;
+        }
+    }
+
+    .school-box-text {
+        max-width: 100%;
+        order: 1;
+    }
+
+    @include breakpoint($medium) {
+        .school-box-image {
+            justify-content: left;
+            min-width: 80px;
+            max-width: 40%;
+            order: 1;
+        }
+        .school-box-text {
+            justify-content: left;
+            padding-left: 2em;
+            max-width: 60%;
+            order: 2;
+        }
+    }
+}
+
+$scroll_offset : 2em;
+h1:before, .anchor:before {
+    content: '';
+    display: block;
+    position: relative;
+    width: 0;
+    height: $scroll_offset;
+    margin-top: -$scroll_offset;
+}
+
+.topic-heading {
+    border-left: 4px solid #00369f;
+    padding-left: 0.75em;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+}
