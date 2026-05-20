@@ -32,7 +32,7 @@ You can also find my articles on [IEEE Explore](https://ieeexplore.ieee.org/auth
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[ICML'26]</b></a> Jinrui Zhou, Haotian Xu, **Xichong Zhang**, He Sun, Mingjun Xiao. "SFedPO: Streaming Federated Learning with a Prediction Oracle under Temporal Shifts", *ICML* 2026</span>
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[ICDE'25]</b></a> **Xichong Zhang**, Haotian Xu, Yin Xu, Mingjun Xiao, Jie Wu, Jinrui Zhou. "Online Federated Learning on Distributed Unknown Data Using UAVs", *IEEE ICDE* 2025 [[Paper]](https://cis.temple.edu/~jiewu/research/publications/Publication_files/ICDE2024_Online_Federated_Learning_on_Distributed_Unknown_Data_Using_UAVs.pdf)</span>
 - <span style="font-family: Arial; font-size:medium;">Haotian Xu, Jinrui Zhou, **Xichong Zhang**, Mingjun Xiao. "SFedKD: Sequential Federated Learning with Discrepancy-Aware Multi-Teacher Knowledge Distillation", *Under Review* [[Paper]](https://arxiv.org/pdf/2507.08508)</span>
-- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[ICDE'24]</b></a> Yin Xu, **Xichong Zhang**, Mingjun Xiao, Jie Wu, An Liu, Sheng Zhang. "Joint Mobile Edge Caching and Pricing: A Mean-Field Game Approach", *IEEE ICDE* 2024 [[Paper]](https://cis.temple.edu/~wu/research/publications/Publication_files/ICDE2024_Xu.pdf)</span>
+- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[ICDE'24]</b></a> Yin Xu, **Xichong Zhang**\*, Mingjun Xiao, Jie Wu, An Liu, Sheng Zhang. "Joint Mobile Edge Caching and Pricing: A Mean-Field Game Approach", *IEEE ICDE* 2024 [[Paper]](https://cis.temple.edu/~wu/research/publications/Publication_files/ICDE2024_Xu.pdf) (\*student first author)</span>
 - <span style="font-family: Arial; font-size:medium;">**Xichong Zhang**, Jinrui Zhou, Yin Xu, Mingjun Xiao, Jie Wu. "Collaborative Federated Learning on Distributed Data Using Multiple UAVs", *Submitted to IEEE/ACM Transactions on Networking*</span>
 - <span style="font-family: Arial; font-size:medium;">**Xichong Zhang**, Jinrui Zhou, Haotian Xu, Yin Xu, Mingjun Xiao, Jie Wu. "AoI-Aware Mobile Crowdsensing in Non-stationary and Constrained Restless Event Environments", *Submitted to IEEE Transactions on Mobile Computing*</span>
 
@@ -59,8 +59,7 @@ You can also find my articles on [IEEE Explore](https://ieeexplore.ieee.org/auth
   </div>
   <div class='school-box-text' markdown='1'>
 **2022.09 - 2025.07**, M.Eng. in Computer Science
-
-School of Computer Science and Technology, University of Science and Technology of China (USTC), Hefei, Anhui
+University of Science and Technology of China (USTC), Hefei, Anhui
   </div>
 </div>
 
@@ -70,7 +69,6 @@ School of Computer Science and Technology, University of Science and Technology 
   </div>
   <div class='school-box-text' markdown='1'>
 **2018.09 - 2022.07**, B.S. in Physics
-
-School of Physical Sciences, University of Science and Technology of China (USTC), Hefei, Anhui
+University of Science and Technology of China (USTC), Hefei, Anhui
   </div>
 </div>
