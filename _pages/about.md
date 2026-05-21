@@ -7,13 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming Ph.D. student in Computer Science at the [University of Waterloo](https://uwaterloo.ca/), advised by [Prof. Khuzaima Daudjee](https://cs.uwaterloo.ca/~kdaudjee/) and [Prof. Hong Zhang](https://hongzhangblaze.github.io/). I received my M.Eng. in Computer Science from the [University of Science and Technology of China](https://en.ustc.edu.cn/), where I was fortunate to be advised by Prof. Mingjun Xiao and Prof. Yin Xu. Before that, I received my B.S. in Physics from USTC and worked on condensed matter physics under the supervision of Prof. Zhenyu Wang. I have also had the pleasure of working with Prof. Banghua Zhu and Prof. Jie Wu.
+I am an incoming Ph.D. student in Computer Science at the [University of Waterloo](https://uwaterloo.ca/), advised by [Prof. Khuzaima Daudjee](https://cs.uwaterloo.ca/~kdaudjee/) and [Asst. Prof. Hong Zhang](https://hongzhangblaze.github.io/). I received my M.Eng. in Computer Science and B.S. in Physics from the [University of Science and Technology of China](https://en.ustc.edu.cn/), where I was fortunate to be advised by Prof. Mingjun Xiao and Asst. Prof. Yin Xu. I have also had the pleasure of working with [Asst. Prof. Banghua Zhu](https://banghua.me/) and [Prof. Jie Wu](https://cis.temple.edu/~wu/).
 
-My research interests lie in **Efficient Machine Learning Systems**, spanning both algorithmic and systems-level optimizations for efficient LLM serving. My goal is to lower the computational and economic barriers of deploying large language models, making them faster, more affordable, and more broadly accessible so that more people can benefit from advances in AI. Previously, my research focused on networking and distributed systems, especially edge computing.
+My research interests lie in **Efficient ML Systems**, spanning both algorithmic and systems-level optimizations for LLM inference. My goal is to lower the computational and economic barriers of deploying LLMs, making them faster, more affordable, and more broadly accessible so that more people can benefit from advances in AI. Previously, my research focused on networking and distributed systems, especially edge computing.
 
-Beyond my current research directions, I am broadly interested in interesting problems and research ideas. Please feel free to reach out if you would like to discuss any topic: **yyu18@mail.ustc.edu.cn**.
-
-You can also find my articles on [IEEE Explore](https://ieeexplore.ieee.org/author/938778205545411) | [dblp](https://dblp.org/pid/381/6175.html).
+I am also broadly open in interesting ideas. Please feel free to reach out if you would like to discuss any topic: **yyu18@mail.ustc.edu.cn**.
 
 ---
 
@@ -24,7 +22,7 @@ You can also find my articles on [IEEE Explore](https://ieeexplore.ieee.org/auth
 <h3 class="topic-heading">Efficient ML Systems</h3>
 
 - <span style="font-family: Arial; font-size:medium;">Zhichen Zeng\*, **Xichong Zhang**\*, Junpan Wu, Banghua Zhu. "Step-dLLM: Adaptive Step-aware Sparse Attention for Efficient Diffusion LLM Inference", *Under Review* (NIPS 2026)</span>
-- <span style="font-family: Arial; font-size:medium;">Yihe Weng\*, **Xichong Zhang**\*†, Jiabin Ou, Luyao Gao, Yin Xu, Mingjun Xiao. "ECVideoLLM: Communication-Efficient Online VideoLLMs via Memory-First Edge-Cloud Collaboration", *In Preparation* (Targeting INFOCOM 2027)</span>
+- <span style="font-family: Arial; font-size:medium;">Yihe Weng\*, **Xichong Zhang**\*†, Jiabin Ou, Luyao Gao, Yin Xu, Mingjun Xiao. "ECVideoLLM: Communication-Efficient Online VideoLLMs via Memory-First Edge-Cloud Collaboration", *Working Paper*/span>
 - <span style="font-family: Arial; font-size:medium;">Luyao Gao, Jianchun Liu, **Xichong Zhang**, Yunming Liao, Guoju Gao. "CoSine: Enhancing LLM Serving via Collaborative and Decoupled Speculative Inference", <a style="color: #ff0000;"><b>[INFOCOM'26]</b></a></span>
 
 <h3 class="topic-heading">Edge Computing</h3>
