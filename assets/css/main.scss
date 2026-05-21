@@ -71,14 +71,13 @@
     @include breakpoint($medium) {
         .school-box-image {
             justify-content: left;
-            min-width: 80px;
-            max-width: 40%;
+            flex: 0 0 100px;
             order: 1;
         }
         .school-box-text {
             justify-content: left;
-            padding-left: 2em;
-            max-width: 60%;
+            padding-left: 1.5em;
+            flex: 1;
             order: 2;
         }
     }
