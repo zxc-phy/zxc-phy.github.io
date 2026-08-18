@@ -119,18 +119,32 @@
   "references": [],
   "publications": [
     {
-      "name": "Step-dLLM: Adaptive Step-aware Sparse Attention for Efficient Diffusion LLM Inference",
-      "publisher": "Under Review (NIPS 2026)",
-      "releaseDate": "2026-01-01",
-      "website": "",
-      "summary": "Co-first author. Introduces adaptive sparsity budget allocation for diffusion language models."
+      "name": "Metis: Memory Foundation Model",
+      "publisher": "Preprint",
+      "releaseDate": "2026-07-01",
+      "website": "https://arxiv.org/abs/2607.26760",
+      "summary": "Co-first author. Native memory foundation model with persistent memory states and autonomous memory procedures."
     },
     {
-      "name": "ECVideoLLM: Communication-Efficient Online VideoLLMs via Memory-First Edge-Cloud Collaboration",
-      "publisher": "In Preparation (Targeting INFOCOM 2027)",
+      "name": "Memory Attention as Reasoning Residual",
+      "publisher": "Research Manuscript",
+      "releaseDate": "2026-07-01",
+      "website": "",
+      "summary": "Co-first author."
+    },
+    {
+      "name": "Step-dLLM: Adaptive Step-aware Sparse Attention for Efficient Diffusion LLM Inference",
+      "publisher": "Submitted to NeurIPS 2026",
       "releaseDate": "2026-01-01",
       "website": "",
-      "summary": "Co-first author & Project lead. Edge-cloud collaborative serving for VideoLLMs."
+      "summary": "Co-first author. Training-free sparse attention for efficient diffusion LLM inference."
+    },
+    {
+      "name": "Recall Before Glimpse: A Memory-based Device-Cloud Collaborative System for Online Video Understanding on Mobile Devices",
+      "publisher": "Submitted to IEEE INFOCOM 2027",
+      "releaseDate": "2026-01-01",
+      "website": "",
+      "summary": "Co-first author and project lead. Memory-based device-cloud collaborative serving for online video understanding."
     },
     {
       "name": "Online Federated Learning on Distributed Unknown Data Using UAVs",

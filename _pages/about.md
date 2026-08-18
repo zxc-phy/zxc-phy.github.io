@@ -19,10 +19,14 @@ I am also broadly open in interesting ideas. Please feel free to reach out if yo
 
 <span class='anchor' id='-publications'></span>
 
+\* Equal contribution; † project lead; ‡ corresponding author.
+
 <h3 class="topic-heading">Efficient ML Systems</h3>
 
-- <span style="font-family: Arial; font-size:medium;">Zhichen Zeng\*, **Xichong Zhang**\*, Junpan Wu, Banghua Zhu. "Step-dLLM: Adaptive Step-aware Sparse Attention for Efficient Diffusion LLM Inference", *Under Review* (NIPS 2026)</span>
-- <span style="font-family: Arial; font-size:medium;">Yihe Weng\*, **Xichong Zhang**\*†, Jiabin Ou, Luyao Gao, Yin Xu, Mingjun Xiao. "ECVideoLLM: Communication-Efficient Online VideoLLMs via Memory-First Edge-Cloud Collaboration", *Working Paper*/span>
+- <span style="font-family: Arial; font-size:medium;">Zeyu Zhang\*, Ziliang Guo\*, Yihang Sun\*, **Xichong Zhang**\*, Xixuan Hao, et al., Zhiyu Li‡, Tat-Seng Chua. "Metis: Memory Foundation Model", *Preprint*, 2026. [[Paper]](https://arxiv.org/abs/2607.26760) [[Code]](https://github.com/MemTensor/Metis) [[HF Weekly #4]](https://huggingface.co/papers/week/2026-W31)</span>
+- <span style="font-family: Arial; font-size:medium;">Zeyu Zhang\*, **Xichong Zhang**\*, Ziliang Guo\*, Yihang Sun\*, Xixuan Hao, et al., Zhiyu Li‡. "Memory Attention as Reasoning Residual", 2026.</span>
+- <span style="font-family: Arial; font-size:medium;">Zhichen Zeng\*, **Xichong Zhang**\*, Junpan Wu, et al., Banghua Zhu‡. "Step-dLLM: Adaptive Step-aware Sparse Attention for Efficient Diffusion LLM Inference", *Submitted to NeurIPS 2026*</span>
+- <span style="font-family: Arial; font-size:medium;">Yihe Weng\*, **Xichong Zhang**\*†, He Sun, Luyao Gao, Yin Xu, Mingjun Xiao‡. "Recall Before Glimpse: A Memory-based Device-Cloud Collaborative System for Online Video Understanding on Mobile Devices", *Submitted to IEEE INFOCOM 2027*</span>
 - <span style="font-family: Arial; font-size:medium;">Luyao Gao, Jianchun Liu, **Xichong Zhang**, Yunming Liao, Guoju Gao. "CoSine: Enhancing LLM Serving via Collaborative and Decoupled Speculative Inference", <a style="color: #ff0000;"><b>[INFOCOM'26]</b></a></span>
 
 <h3 class="topic-heading">Edge Computing</h3>
@@ -57,6 +61,7 @@ I am also broadly open in interesting ideas. Please feel free to reach out if yo
   </div>
   <div class='school-box-text' markdown='1'>
 **2022.09 - 2025.07**, M.Eng. in Computer Science
+
 University of Science and Technology of China (USTC), Hefei, Anhui
   </div>
 </div>
@@ -67,6 +72,7 @@ University of Science and Technology of China (USTC), Hefei, Anhui
   </div>
   <div class='school-box-text' markdown='1'>
 **2018.09 - 2022.07**, B.S. in Physics
+
 University of Science and Technology of China (USTC), Hefei, Anhui
   </div>
 </div>
