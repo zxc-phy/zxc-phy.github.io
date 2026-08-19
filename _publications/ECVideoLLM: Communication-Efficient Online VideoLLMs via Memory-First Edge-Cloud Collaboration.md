@@ -1,19 +1,16 @@
 ---
-title: "ECVideoLLM: Communication-Efficient Online VideoLLMs via Memory-First Edge-Cloud Collaboration"
+title: "Recall Before Glimpse: A Memory-based Device-Cloud Collaborative System for Online Video Understanding on Mobile Devices"
 collection: publications
 category: efficient-ml-sys
 permalink: /publication/ecvideollm
-excerpt: 'ECVideoLLM: Communication-Efficient Online VideoLLMs via Memory-First Edge-Cloud Collaboration (Working, targeting INFOCOM 2027)'
+excerpt: 'Recall Before Glimpse: A Memory-based Device-Cloud Collaborative System for Online Video Understanding on Mobile Devices (Submitted to IEEE INFOCOM 2027)'
 date: 2026-01-01
-venue: 'Working (Targeting INFOCOM 2027)'
-slidesurl: ''
-paperurl: ''
-bibtexurl: ''
-citation: 'Yihe Weng*, Xichong Zhang*†, Jiabin Ou, Luyao Gao, Yin Xu, Mingjun Xiao. &quot;ECVideoLLM: Communication-Efficient Online VideoLLMs via Memory-First Edge-Cloud Collaboration.&quot; In Preparation. (* equal contribution, † project lead)'
+venue: 'Submitted to IEEE INFOCOM 2027'
+citation: 'Yihe Weng*, Xichong Zhang*†, He Sun, Luyao Gao, Yin Xu, Mingjun Xiao. &quot;Recall Before Glimpse: A Memory-based Device-Cloud Collaborative System for Online Video Understanding on Mobile Devices.&quot; Submitted to IEEE INFOCOM 2027. (* equal contribution, † project lead)'
 ---
 
 {% include base_path %}
 
-ECVideoLLM: Communication-Efficient Online VideoLLMs via Memory-First Edge-Cloud Collaboration
+Recall Before Glimpse: A Memory-based Device-Cloud Collaborative System for Online Video Understanding on Mobile Devices
 
-*Co-first author & Project lead. In preparation for IEEE INFOCOM 2027.*
+*Co-first author and project lead. Submitted to IEEE INFOCOM 2027.*
