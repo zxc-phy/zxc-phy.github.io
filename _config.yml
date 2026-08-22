@@ -83,8 +83,10 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  efficient-ml-sys:
-    title: 'Efficient ML Systems'
+  agentic-system:
+    title: 'Agentic System'
+  efficient-llm-inference:
+    title: 'Efficient LLM Inference'
   edge-computing:
     title: 'Edge Computing'
   ai4sci:

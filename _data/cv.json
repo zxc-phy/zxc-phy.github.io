@@ -4,7 +4,7 @@
     "email": "yyu18@mail.ustc.edu.cn",
     "phone": "+86-137-8323-8790",
     "website": "https://zxc-phy.github.io",
-    "summary": "Incoming Ph.D. student in Computer Science at University of Waterloo. Research interests in Efficient Machine Learning Systems, LLM serving, and edge computing.",
+    "summary": "Incoming Ph.D. student in Computer Science at University of Waterloo. Research interests in efficient LLM inference, LLM serving, and edge computing.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -104,7 +104,7 @@
   ],
   "interests": [
     {
-      "name": "Efficient Machine Learning Systems",
+      "name": "Efficient LLM Inference",
       "keywords": ["LLM Serving", "Resource-aware Algorithms", "System Architectures"]
     },
     {
@@ -120,6 +120,8 @@
   "publications": [
     {
       "name": "Metis: Memory Foundation Model",
+      "authors": "Zeyu Zhang*, Ziliang Guo*, Yihang Sun*, Xichong Zhang*, Xixuan Hao, Zehao Lin, Yang Zhang, Xiaoyan Zhao, Tong Shen, Bo Tang, Zhi-Qin John Xu, Junchi Yan, Haofen Wang, Xu Chen†, Feiyu Xiong, Zhiyu Li†, Tat-Seng Chua",
+      "category": "Agentic System",
       "publisher": "Preprint",
       "releaseDate": "2026-07-01",
       "website": "https://arxiv.org/abs/2607.26760",
@@ -127,6 +129,8 @@
     },
     {
       "name": "Memory Attention as Reasoning Residual",
+      "authors": "Zeyu Zhang*, Xichong Zhang*, Yihang Sun*, Ziliang Guo*, Xixuan Hao, Zehao Lin, Xu Chen†, Feiyu Xiong, Zhiyu Li†",
+      "category": "Agentic System",
       "publisher": "Research Manuscript",
       "releaseDate": "2026-07-01",
       "website": "",
@@ -134,6 +138,8 @@
     },
     {
       "name": "Step-dLLM: Adaptive Step-aware Sparse Attention for Efficient Diffusion LLM Inference",
+      "authors": "Zhichen Zeng*, Xichong Zhang*, Junpan Wu, Chi-Chih Chang, Jiayi Wang, Jingqun Zhang, Ji Liu, Ang Li, Banghua Zhu†",
+      "category": "Efficient LLM Inference",
       "publisher": "Submitted to NeurIPS 2026",
       "releaseDate": "2026-01-01",
       "website": "",
@@ -141,6 +147,8 @@
     },
     {
       "name": "Recall Before Glimpse: A Memory-based Device-Cloud Collaborative System for Online Video Understanding on Mobile Devices",
+      "authors": "Yihe Weng*, Xichong Zhang*‡, He Sun, Luyao Gao, Yin Xu, Mingjun Xiao†",
+      "category": "Efficient LLM Inference",
       "publisher": "Submitted to IEEE INFOCOM 2027",
       "releaseDate": "2026-01-01",
       "website": "",
@@ -162,6 +170,8 @@
     },
     {
       "name": "CoSine: Enhancing LLM Serving via Collaborative and Decoupled Speculative Inference",
+      "authors": "Luyao Gao, Jianchun Liu, Xichong Zhang, Yunming Liao, Guoju Gao",
+      "category": "Efficient LLM Inference",
       "publisher": "IEEE INFOCOM",
       "releaseDate": "2026-01-01",
       "website": "",

@@ -99,3 +99,45 @@ h1:before, .anchor:before {
     margin-top: 1.5em;
     margin-bottom: 0.5em;
 }
+
+.publication-links {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.45em;
+    margin-left: 0.35em;
+    vertical-align: middle;
+    white-space: nowrap;
+}
+
+.publication-link {
+    display: inline-flex;
+    align-items: center;
+    line-height: 1;
+    text-decoration: none;
+
+    &:hover {
+        text-decoration: none;
+    }
+
+    > i,
+    .publication-link__hf-icon {
+        font-size: 1.2em;
+    }
+}
+
+.publication-link--paper {
+    color: #b31b1b;
+}
+
+.publication-link--code {
+    gap: 0.2em;
+}
+
+.publication-link__stars {
+    width: auto;
+    height: 18px;
+    margin: 0;
+    border: 0;
+    box-shadow: none;
+    vertical-align: middle;
+}

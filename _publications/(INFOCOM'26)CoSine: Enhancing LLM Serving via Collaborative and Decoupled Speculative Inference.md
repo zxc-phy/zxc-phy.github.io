@@ -1,7 +1,7 @@
 ---
 title: "CoSine: Enhancing LLM Serving via Collaborative and Decoupled Speculative Inference"
 collection: publications
-category: efficient-ml-sys
+category: efficient-llm-inference
 permalink: /publication/cosine-infocom26
 excerpt: 'CoSine: Enhancing LLM Serving via Collaborative and Decoupled Speculative Inference (IEEE INFOCOM 2026)'
 date: 2026-01-01

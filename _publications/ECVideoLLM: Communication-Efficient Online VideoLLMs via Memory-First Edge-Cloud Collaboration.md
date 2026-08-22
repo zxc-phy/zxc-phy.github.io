@@ -1,12 +1,12 @@
 ---
 title: "Recall Before Glimpse: A Memory-based Device-Cloud Collaborative System for Online Video Understanding on Mobile Devices"
 collection: publications
-category: efficient-ml-sys
+category: efficient-llm-inference
 permalink: /publication/ecvideollm
 excerpt: 'Recall Before Glimpse: A Memory-based Device-Cloud Collaborative System for Online Video Understanding on Mobile Devices (Submitted to IEEE INFOCOM 2027)'
 date: 2026-01-01
 venue: 'Submitted to IEEE INFOCOM 2027'
-citation: 'Yihe Weng*, Xichong Zhang*†, He Sun, Luyao Gao, Yin Xu, Mingjun Xiao. &quot;Recall Before Glimpse: A Memory-based Device-Cloud Collaborative System for Online Video Understanding on Mobile Devices.&quot; Submitted to IEEE INFOCOM 2027. (* equal contribution, † project lead)'
+citation: 'Yihe Weng*, Xichong Zhang*‡, He Sun, Luyao Gao, Yin Xu, Mingjun Xiao†. &quot;Recall Before Glimpse: A Memory-based Device-Cloud Collaborative System for Online Video Understanding on Mobile Devices.&quot; Submitted to IEEE INFOCOM 2027. (* equal contribution, † corresponding author, ‡ project lead)'
 ---
 
 {% include base_path %}
